@@ -1,4 +1,4 @@
-Qwiic_SerLCD_CircupBundle NOTE: CURRENTLY STILL IN DEVELOPMENT!
+Qwiic_SerLCD_CircupBundle NOTE: !CURRENTLY STILL IN DEVELOPMENT!
 ==============
 
 <p align="center">
